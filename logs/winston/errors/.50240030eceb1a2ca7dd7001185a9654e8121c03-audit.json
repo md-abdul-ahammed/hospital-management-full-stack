@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/mdabdul/Projects/doctors-portal-backend-with-prisma-and-postgresql-starter-pack/logs/winston/errors/.50240030eceb1a2ca7dd7001185a9654e8121c03-audit.json",
+    "files": [
+        {
+            "date": 1702214989719,
+            "name": "/home/mdabdul/Projects/doctors-portal-backend-with-prisma-and-postgresql-starter-pack/logs/winston/errors/phu-2023-10-12-19-error.log",
+            "hash": "221b7c180cb06f36f71be8d822ba1fb9407b51d2f17bf24a217152a84e3e9425"
+        },
+        {
+            "date": 1702279197747,
+            "name": "/home/mdabdul/Projects/doctors-portal-backend-with-prisma-and-postgresql-starter-pack/logs/winston/errors/phu-2023-11-12-13-error.log",
+            "hash": "902d0d60f3b54bd8f9a100c054259af86b16bfbf2e89654a3d584f298645d047"
+        }
+    ],
+    "hashType": "sha256"
+}
