@@ -6,14 +6,39 @@
     "auditLog": "/home/mdabdul/Projects/doctors-portal-backend-with-prisma-and-postgresql-starter-pack/logs/winston/successes/.8f2207fa593b3c66b65cd415959eb50ccbaa7fcf-audit.json",
     "files": [
         {
-            "date": 1702214989711,
-            "name": "/home/mdabdul/Projects/doctors-portal-backend-with-prisma-and-postgresql-starter-pack/logs/winston/successes/phu-2023-10-12-19-success.log",
-            "hash": "dba0087585def7a703edb8fe559bd1bff63d3f47ccb6d49bdb36defb3d550ba7"
+            "date": 1703791581590,
+            "name": "/home/mdabdul/Projects/doctors-portal-backend-with-prisma-and-postgresql-starter-pack/logs/winston/successes/phu-2023-29-12-01-success.log",
+            "hash": "6c0a0178f4909266211c884145963779a9c9240c238289ee3234d81d25c04ec5"
         },
         {
-            "date": 1702279197743,
-            "name": "/home/mdabdul/Projects/doctors-portal-backend-with-prisma-and-postgresql-starter-pack/logs/winston/successes/phu-2023-11-12-13-success.log",
-            "hash": "999f8b59e71239c6d7ad0774078aaf5da20e78e93689b94a8726a8236a9ce67c"
+            "date": 1703848711988,
+            "name": "/home/mdabdul/Projects/doctors-portal-backend-with-prisma-and-postgresql-starter-pack/logs/winston/successes/phu-2023-29-12-17-success.log",
+            "hash": "fec433fdb169ae514f63954fc9ebb28bd689e781fc2239c9ddb940404baef80f"
+        },
+        {
+            "date": 1704864292755,
+            "name": "/home/mdabdul/Projects/doctors-portal-backend-with-prisma-and-postgresql-starter-pack/logs/winston/successes/phu-2024-10-01-11-success.log",
+            "hash": "c4d869197f711a37e36767f97ca03f6a0d41656ea97671b4015ab50eb42d55fc"
+        },
+        {
+            "date": 1704868352351,
+            "name": "/home/mdabdul/Projects/doctors-portal-backend-with-prisma-and-postgresql-starter-pack/logs/winston/successes/phu-2024-10-01-12-success.log",
+            "hash": "3f381ad2231bde43d4dc7f1778358e83e679b8c80a0b36a9f2abc0b042257e40"
+        },
+        {
+            "date": 1704875294790,
+            "name": "/home/mdabdul/Projects/doctors-portal-backend-with-prisma-and-postgresql-starter-pack/logs/winston/successes/phu-2024-10-01-14-success.log",
+            "hash": "576922b584c332813c772755be07a716b00d91ba2dc25de2e7f8e8f2cc7d0793"
+        },
+        {
+            "date": 1704877277950,
+            "name": "/home/mdabdul/Projects/doctors-portal-backend-with-prisma-and-postgresql-starter-pack/logs/winston/successes/phu-2024-10-01-15-success.log",
+            "hash": "dc96e269f600e29c2d67bb96c150b7782688f93b17bae6b2fc259ed63c7e64c7"
+        },
+        {
+            "date": 1704891055454,
+            "name": "/home/mdabdul/Projects/doctors-portal-backend-with-prisma-and-postgresql-starter-pack/logs/winston/successes/phu-2024-10-01-18-success.log",
+            "hash": "8bd9704ca625f04ffd56d6e142d7667f666a7bc3c925b1af9cc82b28d383b165"
         }
     ],
     "hashType": "sha256"
